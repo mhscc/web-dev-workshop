@@ -1,4 +1,4 @@
-# Installing Development Tools
+# 🛠️ Installing Development Tools
 
 - Install [Visual Studio Code](https://code.visualstudio.com/)
 - Install [Node.js](https://nodejs.org/) (LTS version)

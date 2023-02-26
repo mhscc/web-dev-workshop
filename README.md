@@ -12,9 +12,12 @@ Frontend web development cheat sheet/workshop by the MHS Coding Club.
 
 
 ### ⭐ JavaScript
-1. [JavaScript Basics](/LEARN_HTML.md)
-2. [JavaScript DOM(Document Object Model)](/LEARN_HTML.md)
+1. 🚀[JavaScript Basics](/JAVASCRIPT/JAVASCRIPT_BASICS.md)
+2. 📜[JavaScript DOM(Document Object Model)](/JAVASCRIPT/JAVASCRIPT_DOM.md)
 
 
+### ⌨️ TypeScript
+1. ⏩[Familiarize with TypeScript Quickly](/JAVASCRIPT/JAVASCRIPT_BASICS.md)
 
-###  TypeScript
+
+### 🌐 Next.js(Web Framework)

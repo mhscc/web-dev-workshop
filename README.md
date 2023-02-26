@@ -7,8 +7,8 @@ Frontend web development cheat sheet/workshop by the MHS Coding Club.
 
 ### ⭐ HTML & CSS
 1. [🛠️Setting Up Workspace](/HTML-CSS/WORKSPACE_SETUP.md)
-2. [✅Introduction to HTML](/LEARN_HTML.md)
-3. [🦜Introduction to CSS](/LEARN_CSS.md)
+2. [✅Introduction to HTML](/HTML-CSS/LEARN_HTML.md)
+3. [🦜Introduction to CSS](/HTML-CSS/LEARN_CSS.md)
 
 
 ### ⭐ JavaScript

@@ -21,3 +21,4 @@ Frontend web development cheat sheet/workshop by the MHS Coding Club.
 
 
 ### 🌐 Next.js(Web Framework)
+1. ⏭️[Next.JS Introduction](NEXTJS/NEXTJSTUTORIAL.md)

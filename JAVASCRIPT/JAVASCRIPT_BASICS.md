@@ -19,10 +19,17 @@ JavaScript is the most popular programming language for web development
         </body>
     </html>
     ```
-    &nbsp;
+   
+#### Where do I see JavaScript outputs?
+7. Open the developer tools in your browser by clicking `F12` or `ctrl+shift+i`
+8. Go to `console` tab
+
+#### How do I run the JavaScript on my terminal?
+1. Open a new terminal on Visual Studio Code
+2. Type in `node [filename].js`  in our case type in `node index.js`
 
 
-#### Variables, Data Types and Operators
+### Variables, Data Types
 
 > ####  [Video Tutorial](https://www.youtube.com/watch?v=edlFjlzxkSI)
 
@@ -44,25 +51,27 @@ console.log(myName);
 /*This is a comment it does not have any effect on the code */
 ```
 
-#### [What is the difference Between const and let?](https://www.youtube.com/watch?v=RE6qf3As-XU)
+### [What is the difference Between const and let?](https://www.youtube.com/watch?v=RE6qf3As-XU)
 
-There are **5** commonly used data types:
+#### There are **5** commonly used data types:
 ![](/static_files/javascript_datatypes.png)
 
-> #### [What are operators?](https://www.youtube.com/watch?v=FZzyij43A54)
 
-&nbsp;
+### Operators 
+> #### [Video Tutorial](https://www.youtube.com/watch?v=FZzyij43A54)
+Operators are Symbols used to perform operations on operands
 
-#### Where do I see JavaScript outputs?
-1. Open the developer tools in your browser by clicking `F12` or `ctrl+shift+i`
-2. Go to `console` tab
+**The 5 types of operators are**:
+1. Arithmetic Operator (common)
+2. Comparison Operator (common)
+3. Bitwise Operator
+4. Logical Operator (common)
+5. Assignment Operators (common)
+6. Special Operators
 
-#### How do I run the JavaScript on my terminal?
-1. Open a new terminal on Visual Studio Code
-2. Type in `node [filename].js`  in our case type in `node index.js`
+You do not have to learn Bitwise Operator at the moment because there is little usage as of now.
 
 
-&nbsp;
 
 
 ### Conditionals
@@ -97,14 +106,15 @@ if (myAge > 10){
 
 
 ### Functions
-A block of code that performs certain task
-
-A function can have parameters.
-- Paramater are listed inside the paranthesis of the function
-- Arguments are the values recieved by the function when it is invoked
-
 
 > #### [Video Tutorial](https://www.youtube.com/watch?v=N8ap4k_1QEQ&t=4s)
+
+
+Function is a block of code that performs certain task
+
+A function can have parameters.
+   - Paramater are listed inside the paranthesis of the function
+   - Arguments are the values recieved by the function when it is invoked
 
  **Example:**
 ```javascript
@@ -148,14 +158,14 @@ console.log(car);
 ```
 
 #### But why use functions?
-> The golden rule in programming is reusable reusable reusable
-> Define the code once, use it many times
+>The golden rule in programming is reusable reusable reusable
+>Define the code once, use it many times
 
-&nbsp;
 ### What if my code to execute many times?
-Use loops, loops can execute a block of code a number of times
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=Kn06785pkJg&t=297s) 
+> #### [Video Tutorial](https://www.youtube.com/watch?v=Kn06785pkJg&t=297s)
+>
+Use loops, loops can execute a block of code a number of times
 
 
 There are **5 types of loops**: `while` loop, `for` loop, `for/in` loop, `for/of` loop and `do/while` loop
@@ -250,9 +260,7 @@ do {
 ```
 The code will execute once and then check the condition therefore `5` was printed even though it is not between `5` and `10` exclusive
 
-&nbsp;
-
-#### To dive deeper into JavaScript
+### To dive deeper into JavaScript
 
 Take some time and watch this [video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=4595s) or go through this [Modern JavaScript Tutorial](https://javascript.info/)
 

@@ -1,25 +1,20 @@
 # 🦜Introduction to CSS
-##[Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40)
----
+> #### [Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40)
+
 CSS(Cascading Style Sheets) is the code that styles the web content. It is not a programming or markup language but rather a style-sheet language
 
 >If HTML is the skeleton of our body then CSS is the skin
 
-
-
-
- 
-
-#### CSS Syntax 
+### CSS Syntax 
 ![](../static_files/css_syntax.png)
-There are 5 types of selectors:
+
+#### There are 5 types of selectors:
+
 ![](../static_files/css_selector.png)
 
 
-#### Ways to link CSS to HTML
+### Ways to link CSS to HTML
 - **Inline CSS** -  uses style attribute of the HTML element
-
-    &nbsp;
   
   **`index.html`**
   ```html
@@ -29,8 +24,6 @@ There are 5 types of selectors:
   ```
 
 - **Internal CSS** - using style element in a HTML document
-
-    &nbsp;
 
     **`index.html`**
     ```html
@@ -60,8 +53,6 @@ There are 5 types of selectors:
     ```
 - **External CSS** - a CSS file  linked to the HTML document
   
-    &nbsp;
-
     **`index.html`**
     ```html
     <!DOCTYPE html>
@@ -94,6 +85,6 @@ There are 5 types of selectors:
     ```
 
 #### Additional Guides
-There is no need to purposely remember all the CSS properties. Visual Studio Code have built-in auto-hint for CSS. You can always search online on CSS properties
+There is no need to purposely remember all the CSS properties. Visual Studio Code have built-in auto-hint for CSS plus you can always search online on CSS properties. **Try playing around with HTML and CSS, create some designs on your own to get familiarize with it.**
 
 - [CSS Reference](https://cssreference.io/)

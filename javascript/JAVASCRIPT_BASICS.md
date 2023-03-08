@@ -47,6 +47,8 @@ JavaScript is the most popular web development programming language.
 Think of variables as containers that stores values. To declare a variable use `var`, `let` or `const` followed by variable name, equal sign then the value.
 To print out the statement to the console/terminal use `console.log()`
 
+As long as the scope of the variable is reached, it may be used to `console.log()`, use it in a function and constructors if the data type is valid, and <b>most importantly</b>, variables are case-sensitive, you can only call them exactly how you spelled, don't miss a single letter, spelling, and capitalization.
+
 ```javascript
 var age = 4;
 let myName = 'Bob Joe';
@@ -72,6 +74,26 @@ console.log(myName);
 > #### [Video Tutorial](https://www.youtube.com/watch?v=FZzyij43A54)
 >
 > Operators are Symbols used to perform operations on operands
+
+Generally, all operators require you to have the same data type. Integers and Strings can't be added together, but integer and integer, so can is Strings to Strings.
+
+```javascript
+
+/* few examples */
+
+let a = 10;
+let b = 4;
+
+let ABadd = 10 + 4;
+let ABmultiple = a * 4; // for multplication
+
+a += 5; // add 5 to a. New value of a is 15
+
+let firstWord = "chi"
+let secondWord = "p"
+
+let firstsecondWord = firstword + secondWord // results into "chip"
+```
 
 **The 5 types of operators are**:
 

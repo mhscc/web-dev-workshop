@@ -6,18 +6,18 @@ Frontend web development cheat sheet/workshop by the MHS Coding Club.
 
 
 ### 📝 HTML & CSS
-1. [🛠️ Setting Up the Workspace](/HTML-CSS/WORKSPACE_SETUP.md)
-2. [📄 Introduction to HTML](/HTML-CSS/LEARN_HTML.md)
-3. [🦜 Introduction to CSS](/HTML-CSS/LEARN_CSS.md)
+1. [🛠️ Setting Up the Workspace](/html-css/WORKSPACE_SETUP.md)
+2. [📄 Introduction to HTML](/html-css/LEARN_HTML.md)
+3. [🦜 Introduction to CSS](/html-css/LEARN_CSS.md)
 
 
 ### ❤️ JavaScript
-1. [🚀 JavaScript Basics](/JAVASCRIPT/JAVASCRIPT_BASICS.md)
-2. [📜 JavaScript DOM (Document Object Model)](/JAVASCRIPT/JAVASCRIPT_DOM.md)
+1. [🚀 JavaScript Basics](/javascript/JAVASCRIPT_BASICS.md)
+2. [📜 JavaScript DOM (Document Object Model)](/javascript/JAVASCRIPT_DOM.md)
 
 
 ### ⌨️ TypeScript
-1. [⏩ Familiarize with TypeScript Quickly](/JAVASCRIPT/JAVASCRIPT_BASICS.md)
+1. [⏩ Familiarize with TypeScript Quickly](/typescript/FAMILIARIZETYPESCRIPT.md)
 
 
 ### 🌐 Next.js (Web Framework)

@@ -44,10 +44,11 @@ JavaScript is the most popular web development programming language.
 
 > #### [Video Tutorial](https://www.youtube.com/watch?v=edlFjlzxkSI)
 
-Think of variables as containers that stores values. To declare a variable use `let` or `const` followed by variable name, equal sign then the value.
+Think of variables as containers that stores values. To declare a variable use `var`, `let` or `const` followed by variable name, equal sign then the value.
 To print out the statement to the console/terminal use `console.log()`
 
 ```javascript
+var age = 4;
 let myName = 'Bob Joe';
 const word = 'Big';
 

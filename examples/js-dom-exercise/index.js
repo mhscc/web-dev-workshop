@@ -1,3 +1,4 @@
+// referencing HTML elements
 let clearButton = document.getElementById('clear');
 let output = document.getElementById('output');
 let input = document.getElementById('name');

@@ -53,9 +53,11 @@ To learn more watch this [video](https://www.youtube.com/watch?v=zktJ8-k0JDc&lis
 
 
 ### Component
-Components is a block of code that we can use multiple times. For example, a navbar is a component
+Components is a block of code that is reusable virtually everywhere in a project. For example, every page in a website may have header and footer, and they can be written as a component to easily integrate it in a project. Without components, your application will need to write same code that constitutes header and footer for each of the pages in your website. Components essentially makes code less redundant. 
 
-Reusability is the golden rule in programming. Always try to make your **reusable** and **readable**.
+Reusability is the golden rule in programming. Always try to make your **reusable** and **readable**. 
+
+Also, it is generally a good idea to create a folder named "Components", and organize each of your components to a distinct file to not have difficulty browsing through your own code.
 
 Carefully watch this video to learn how to create and use a [component](https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4) in your NextJS project.
 

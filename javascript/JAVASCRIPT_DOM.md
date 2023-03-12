@@ -1,7 +1,7 @@
 # 📜 JavaScript DOM(Document Object Model)
-DOM basically represents the html page and its CSS, with DOM we could change the content of the HTML in javascript. Why is this important? **It allows us to create a website that is interactive.**
+DOM basically represents the HTML page and its CSS; using DOM, we can change the HTML content in javascript. What is the significance of this? **It enables us to create an interactive website.**
 
-### Getting Started
+### ⭐ Getting Started
 1.  Have a HTML file created
 2.  CSS file is optional
 3.  Create or use an existing JavaScript file
@@ -14,9 +14,10 @@ DOM basically represents the html page and its CSS, with DOM we could change the
 ### DOM Manipulations
 > #### [Video Tutorial](https://www.youtube.com/watch?v=jmPgo2lyoLY)
 
-We start off by searching for an HTML element, then we use JavaScript to implement some logics.
+ The overall DOM manipulation procedure is to locate an HTML element and then use JavaScript to implement logic.
 
-**Task:** create a website that can that gets the value typed in the input box when clicked on the `submit` button and display it like `Yo whatsup {value}`. The website should not display anything if no value is typed when the `submit` button is clicked In addition create a `clear` button that resets everything when clicked.
+**Task:** Create a website that can that gets the value typed in the input box when clicked on the `submit` button and display it like `Yo whatsup {value}`. The website should not display anything if no value is typed when the   button is clicked In addition create a `clear` button that resets everything when clicked.
+
 
 
 **Solution:**
@@ -48,7 +49,7 @@ We start off by searching for an HTML element, then we use JavaScript to impleme
 
 </html>
 ```
-Notice the `onclick` attribute, it calls the JavaScript function when the button is clicked.
+Notice the `onclick` attribute  calls the JavaScript function when the button is clicked.
 
 
 `index.js`
@@ -74,11 +75,11 @@ function clearText() {
 
 }
 ```
-We first get the elements through `document.getElementId`. Then we create two function, one to generate the text when `submit` button is clicked the other to reset everything when `clear` button is clicked
+We first obtain the elements via `document.getElementId`. Then we write two functions, one to generate text when the `submit` button is pressed and another to reset everything when the `clear` button is pressed.
 
-The `clear` button is initially set to hidden however when it is clicked we used DOM to remove this attribute.
+The `clear` button is initially set to hidden however when it is clicked, using DOM we can remove the `hidden` attribute.
 
-**The files for this small exercise is at `Examples` folder in this Github Repository**
+**The files for this small exercise is located at `Examples` folder in this Github Repository**
 ## Dig Deeper 🤿
 
 Watch [JavaScript DOM Manipulation - Full Course for beginners](https://www.youtube.com/watch?v=5fb2aPlgoys) if you would like to learn more about DOM. 

@@ -1,7 +1,7 @@
 # 🦜Introduction to CSS
-> #### [Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40)
+> ### [Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40)
 
-CSS(Cascading Style Sheets) is the code that styles the web content. It is not a programming or markup language but rather a style-sheet language
+CSS(Cascading Style Sheets) is the code that styles the web content. It is a style-sheet language, not a programming or markup language.
 
 >If HTML is the skeleton of our body then CSS is the skin
 
@@ -85,6 +85,6 @@ CSS(Cascading Style Sheets) is the code that styles the web content. It is not a
     ```
 
 #### Additional Guides
-There is no need to purposely remember all the CSS properties. Visual Studio Code have built-in auto-hint for CSS plus you can always search online on CSS properties. **Try playing around with HTML and CSS, create some designs on your own to get familiarize with it.**
+There is no need to remember all of the CSS properties. Visual Studio Code includes an auto-hint for CSS, and you can always search online for CSS properties. **To familiarize yourself with HTML and CSS, experiment with it by creating your own designs.**
 
-- [CSS Reference](https://cssreference.io/)
+#### - [CSS Reference](https://cssreference.io/)

@@ -1,19 +1,24 @@
 # 😀Introduction to HTML
-HTML is a markup language that defines the structure of your content. It is consist of series of elements.
+HTML is a markup language that defines the structure of your content; it consists of a series of elements.
 
-#### What is an HTML element?
+**<ins>Watch Part 1 to 4</ins>**
+
+> ### [Video Tutorial](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq)
+
+### What is an HTML element?
 ![Element](/static_files/htmlelementl.png)
 
-An **element** can also have attributes like the following:
+### An **element** can also have attributes like the following:
 ![Element](/static_files/htmlattribute.png)
 
-**Void Elements** are element that have no contents hence they do not need a closing tag
+**A void Element** is an element that has no contents so they do not need a closing tag
+
 ```html
 <img src="images/codingclub.png" alt="My test image" />
 ```
 
-#### Structure of an HTML File
-An HTML file have a HTML element and insite it there is the head and body element. The body element contains all the content for the website.
+### Structure of an HTML File
+An HTML file contains a root HTML element. The head and body elements are contained within it; the body element contains all of the document's contents, while the head element contains the document's metadata.
 
 **Code**:
 ```html

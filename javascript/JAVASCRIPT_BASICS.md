@@ -1,15 +1,15 @@
 # 🚀 JavaScript Basics
 
-JavaScript is the most popular web development programming language.
+JavaScript is the most widely used programming language for web development.
 
 ### ⭐ Getting Started
 
 1. Ensure that live server extension is installed
-2. Ensure a HTML document (e.g `index.html`) is created
+2. If you haven't already, create an HTML document(e.g `index.js`). 
 3. A CSS file is not necessary in this example
-4. Install NodeJS if you have not done so already
-5. Create a JavaScript file named `index.js` in the folder
-6. In your HTML file, enter this code on a new line before the `</body>` tag:
+4. If you haven't already, install nodeJS
+5. Create a JavaScript file named `index.js` in your folder
+6. Inside your HTML file, enter this code on a new line before the closing body tag:
 
    ```html
    <script src="index.js"></script>

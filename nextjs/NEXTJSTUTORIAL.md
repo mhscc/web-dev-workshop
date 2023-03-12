@@ -1,15 +1,15 @@
 # ⏭️ Next.JS Introduction
-Next.js is an open-source web development framework created by Vercel enabling React-based web applications with server-side rendering and generating static websites
+Next.js is an open-source web development framework created by Vercel that allows React-based web applications to have server-side rendering and static website generation.
 
 
 ### Setting Up NextJS Project
-1. Make sure NodeJS is installed on your pc. 
-2. Follow the instructions on this [video](https://www.youtube.com/watch?v=kap8xrWMNDM) to integrate TailwindCSS into your project
+1. If you haven't already, install NodeJS
+2. Follow the instructions in this [video](https://www.youtube.com/watch?v=kap8xrWMNDM) to integrate TailwindCSS into your project
 3. Open a new terminal in Visual Studio Code and type `yarn dev` or `npm run dev` to run the app
 
 
 ### JSX
-It is a syntax extension to JavaScript that lets us write HTML inside a JavaScript file
+JSX is a syntax extension to JavaScript that lets us write HTML inside a JavaScript file
 
 **HTML to JSX**
 `HTML`
@@ -34,9 +34,9 @@ function HomePage() {
     )
 }
 ```
-Notice how in JSX, HTML can be written inside a JavaScript Function but only in the return block
+Notice how in JSX, HTML can be written inside a JavaScript Function **but only in the return block**
 
-**The Rules of JSX**
+### The Rules of JSX
 1. Must only return a single root element
 2. All tags must be closed
 3. Attribute names are mostly in camelCase
@@ -47,19 +47,23 @@ Use this [converter](https://transform.tools/html-to-jsx) to help check if your 
 
 
 ### Pages and Routing
-In a NextJS, routing is very simple. `index.jsx` would automatically be the homepage, `[page_name].jsx` are the other pages. For example, if I want to see an about page when I search `www.abababa.com/about` all I have to do is create a `about.jsx` file.
 
-To learn more watch this [video](https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2).
+> #### [Video Tutorial](https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2).
+
+NextJS makes routing a breeze. For example, `index.jsx` is the homepage by default. To add more pages, simply create a new file with a different name. For example, an `about` page would be `about.jsx`.
 
 
 ### Component
-Components is a block of code that is reusable virtually everywhere in a project. For example, every page in a website may have header and footer, and they can be written as a component to easily integrate it in a project. Without components, your application will need to write same code that constitutes header and footer for each of the pages in your website. Components essentially makes code less redundant. 
+
+> #### [Video Tutorial](https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4) 
+
+A component is a piece of code that can be used almost anywhere in a project. For example, every page on a website may have a header and footer, which can be written as a component and reused throughout the project. Without components, your application will have to write the same code for each page of your website's header and footer. Components, in essence, make code less redundant. 
 
 Reusability is the golden rule in programming. Always try to make your **reusable** and **readable**. 
 
 Also, it is generally a good idea to create a folder named "Components", and organize each of your components to a distinct file to not have difficulty browsing through your own code.
 
-Carefully watch this video to learn how to create and use a [component](https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4) in your NextJS project.
+ 
 
 ### Linking Pages
 How do I make my website navigate to another page when I press a button?
@@ -95,11 +99,11 @@ These are the very basics of NextJS, if yould like to learn more watch the whole
 
 ## [TailwindCSS](https://tailwindcss.com/)
 
-A quick overview of [TailwindCSS](https://www.youtube.com/watch?v=mr15Xzb1Ook&t=26s)
+#### A quick overview of [TailwindCSS](https://www.youtube.com/watch?v=mr15Xzb1Ook&t=26s)
 
-Tailwindcss is a CSS framework, it makes designing website faster and easier. Overall, there is not much difference between CSS and TailwindCSS. It's also not too hard to learn because Visual Studio Code give hints.
+Tailwindcss is a CSS framework that makes website design faster and easier. Overall, there isn't much of a difference between CSS and TailwindCSS. It's also not too difficult to learn because Visual Studio Code provides hints.
 
-For styling you don’t have to memorize everything, the documentation is always available on the official website. Go to https://tailwindcss.com/docs/ and search up the styling you wish to add, read the documentation and follow it. 
+You don't have to memorize everything for styling because the documentation is always available on the official website. Go to https://tailwindcss.com/docs/ and search for the styling you want to add, then read and follow the documentation.
 
 To learn more about TailwindCSS, I suggest going over this [series](https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13).
 

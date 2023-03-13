@@ -5,7 +5,7 @@ JavaScript is the most widely used programming language for web development.
 ### ⭐ Getting Started
 
 1. Ensure that live server extension is installed
-2. If you haven't already, create an HTML document(e.g `index.js`). 
+2. If you haven't already, create an HTML document(e.g `index.js`).
 3. A CSS file is not necessary in this example
 4. If you haven't already, install nodeJS
 5. Create a JavaScript file named `index.js` in your folder
@@ -54,13 +54,18 @@ var age = 4;
 let myName = 'Bob Joe';
 const word = 'Big';
 
-/* print the word*/
+// print the word
 console.log(word);
 
-/*print myName */
+// print myName
 console.log(myName);
 
-/*This is a comment it does not have any effect on the code */
+// This is a comment it does not have any effect on the code
+
+/*
+  or you can also do it like this
+  and make it multi-line
+ */
 ```
 
 [What is the difference Between const and let?](https://www.youtube.com/watch?v=RE6qf3As-XU)
@@ -78,7 +83,6 @@ console.log(myName);
 Generally, all operators require you to have the same data type. Integers and Strings can't be added together, but integer and integer, so can is Strings to Strings.
 
 ```javascript
-
 /* few examples */
 
 let a = 10;
@@ -89,10 +93,10 @@ let ABmultiple = a * 4; // for multplication
 
 a += 5; // add 5 to a. New value of a is 15
 
-let firstWord = "chi"
-let secondWord = "p"
+let firstWord = 'chi';
+let secondWord = 'p';
 
-let firstsecondWord = firstword + secondWord // results into "chip"
+let firstsecondWord = firstword + secondWord; // results into "chip"
 ```
 
 **The 5 types of operators are**:
@@ -106,7 +110,7 @@ let firstsecondWord = firstword + secondWord // results into "chip"
 
 You do not have to learn Bitwise Operator at the moment because there is little usage as of now.
 
-### 🌫️ Conditionals
+### 💥 Conditionals
 
 > #### [Video Tutorial](https://www.youtube.com/watch?v=IsG4Xd6LlsM&t=135s)
 >

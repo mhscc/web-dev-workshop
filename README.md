@@ -30,8 +30,8 @@ Get started learning frontend coding today!
 
 If you have any questions or concerns, please reach out to us via:
 
-- 📧 Email: `codingmhs@gmail.com` or
-- 📷 Instagram: `@mhscoding`
+- 📧 Email: <codingmhs@gmail.com> or
+- 📷 Instagram: [@mhscoding](https://instagram.com/mhscoding)
 
 ## 🙌 Contribution
 

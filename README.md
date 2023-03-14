@@ -1,6 +1,6 @@
-# Web Development Cheat Sheet
+# Web Development Workshop
 
-Frontend web development cheat sheet/workshop by the MHS Coding Club.
+Frontend web development workshop by the MHS Coding Club.
 
 ### ⭐ Getting Started
 

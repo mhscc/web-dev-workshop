@@ -13,7 +13,7 @@ plugins:
   - jekyll-seo-tag
 
 # Theme-specific settings
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
 - jekyll-remote-theme
@@ -24,4 +24,4 @@ minima:
      - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
      - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
 
-show_excerpts: false
+show_excerpts: true

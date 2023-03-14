@@ -26,18 +26,18 @@ Get started learning frontend coding today!
 1. [⏭️ Next.JS Introduction](/nextjs/NEXTJSTUTORIAL.md)
 
 
-## Help and Support
+## 💡 Help and Support
 
 If you have any questions or concerns, please reach out to us via:
 
 - 📧 Email: `codingmhs@gmail.com` or
 - 📷 Instagram: `@mhscoding`
 
-## Contribution
+## 🙌 Contribution
 
 We currently don't have any documentation on this matter
 
-## Authors/contributors
+## ✍️ Authors/contributors
 
 - [Carson Lin](https://github.com/Copastr) <<lin.carson@mycnmipss.org>>
 - [Dip Roy](https://github.com/ldstr) <<roy.dip@mycnmipss.org>>

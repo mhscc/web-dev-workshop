@@ -15,3 +15,7 @@ yarn add -D typescript
 ```bash
 sudo yarn add -D typescript
 ```
+
+----
+
+⏭️ Next: [Setting Up Workspace](/html-css/WORKSPACE_SETUP.md)

@@ -18,4 +18,4 @@ sudo yarn add -D typescript
 
 ----
 
-⏭️ Next: [Setting Up Workspace](/html-css/WORKSPACE_SETUP.md)
+⏭️ Next: [Setting Up Workspace](/html-css/WORKSPACE_SETUP)

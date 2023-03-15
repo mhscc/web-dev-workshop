@@ -82,3 +82,6 @@ The `clear` button is initially set to hidden however when it is clicked, using 
 Watch [JavaScript DOM Manipulation - Full Course for beginners](https://www.youtube.com/watch?v=5fb2aPlgoys) if you would like to learn more about DOM.
 
 However, it is not necessary because as you move forward web frameworks are a better option. 🫡
+
+----
+⏪ Back: [Javascript Basics](./JAVASCRIPT_BASICS.md) • ⏭️ Next: [Introduction to TypeScript](../typescript/FAMILIARIZETYPESCRIPT.md)

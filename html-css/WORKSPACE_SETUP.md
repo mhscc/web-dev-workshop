@@ -10,4 +10,4 @@
 
 ----
 
-⏪ Back: [Installing Development Tools](../INSTALL_DEV_TOOLS.md) • ⏭️ Next: [Introduction to HTML](/html-css/LEARN_HTML)
+⏪ Back: [Installing Development Tools](../INSTALL_DEV_TOOLS) • ⏭️ Next: [Introduction to HTML](/html-css/LEARN_HTML)

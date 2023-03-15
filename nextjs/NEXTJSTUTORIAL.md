@@ -111,3 +111,6 @@ You don't have to memorize everything for styling because the documentation is a
 To learn more about TailwindCSS, we suggest going over this [series](https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13).
 
 Good luck 🫡
+
+----
+⏪ Back: [Introduction to TypeScript](../typescript/FAMILIARIZETYPESCRIPT.md)

@@ -33,3 +33,6 @@ Which can then be used create an object that conforms with the structure defined
 Once again, TypeScript is JavaScript with a type system. Using TypeScript lowers the chance of bugs in your program.
 
 If you know JavaScript, TypeScript will be easy to adapt to.
+
+----
+⏪ Back: [Javascript DOM](../javascript/JAVASCRIPT_DOM.md) • ⏭️ Next: [Introduction to Next.js](../nextjs/NEXTJSTUTORIAL.md)

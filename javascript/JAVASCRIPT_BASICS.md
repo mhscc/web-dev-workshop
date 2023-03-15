@@ -323,3 +323,6 @@ The code will execute once and then check the condition therefore `5` was printe
 Take some time and watch this [video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=4595s) or go through this [Modern JavaScript Tutorial](https://javascript.info/)
 
 Good luck 🙋‍♂️
+
+----
+⏪ Back: [Introduction to CSS](../html-css/LEARN_CSS.md) • ⏭️ Next: [Javascript DOM](./JAVASCRIPT_DOM.md)

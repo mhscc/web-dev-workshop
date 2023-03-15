@@ -10,4 +10,4 @@
 
 ----
 
-⏪ Back: [Installing Development Tools](../INSTALL_DEV_TOOLS.md) • ⏭️ Next: [Setting Up Workspace](/html-css/WORKSPACE_SETUP.md)
+⏪ Back: [Installing Development Tools](../INSTALL_DEV_TOOLS.md) • ⏭️ Next: [Introduction to HTML](/html-css/LEARN_HTML.md)

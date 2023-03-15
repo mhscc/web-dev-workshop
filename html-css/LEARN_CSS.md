@@ -93,3 +93,6 @@ CSS(Cascading Style Sheets) is the code that styles the web content. It is a sty
 There is no need to remember all of the CSS properties. Visual Studio Code includes an auto-hint for CSS, and you can always search online for CSS properties. **To familiarize yourself with HTML and CSS, experiment with it by creating your own designs.**
 
 #### - [CSS Reference](https://cssreference.io/)
+
+----
+⏪ Back: [Installing Development Tools](./LEARN_HTML.md) • ⏭️ Next: [Setting Up Workspace](../javascript/JAVASCRIPT_BASICS.md)

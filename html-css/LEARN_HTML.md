@@ -48,3 +48,6 @@ An HTML file contains a root HTML element. The head and body elements are contai
 ### 🤿 Diving Deeper
 
 - Watch part 1 to part 4 of the [Introduction to HTML](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq) series
+
+----
+⏪ Back: [Installing Development Tools](../html-css/WORKSPACE_SETUP.md) • ⏭️ Next: [Setting Up Workspace](/html-css/LEARN_CSS.md)

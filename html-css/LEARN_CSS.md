@@ -95,4 +95,4 @@ There is no need to remember all of the CSS properties. Visual Studio Code inclu
 #### - [CSS Reference](https://cssreference.io/)
 
 ----
-⏪ Back: [Installing Development Tools](./LEARN_HTML.md) • ⏭️ Next: [Setting Up Workspace](../javascript/JAVASCRIPT_BASICS.md)
+⏪ Back: [Introduction to HTML](./LEARN_HTML.md) • ⏭️ Next: [Javascript Basics](../javascript/JAVASCRIPT_BASICS.md)

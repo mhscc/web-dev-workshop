@@ -39,6 +39,8 @@ We currently don't have any documentation on this matter
 
 ## ✍️ Authors/contributors
 
-- [Carson Lin](https://github.com/Copastr) <<lin.carson@mycnmipss.org>>
-- [Dip Roy](https://github.com/ldstr) <<roy.dip@mycnmipss.org>>
-- [Jaehoon Son](https://github.com/Knuceles) <<son.jae@mycnmipss.org>>
+- [Carson Lin](https://github.com/Copastr) << [lin.carson@mycnmipss.org](mailto:lin.carson@mycnmipss.org) >>
+- [Dip Roy](https://github.com/ldstr) << [roy.dip@mycnmipss.org](mailto:roy.dip@mycnmipss.org) >>
+- [Jaehoon Son](https://github.com/Knuceles) << [son.jae@mycnmipss.org](mailto:son.jae@mycnmipss.org) >>
+
+

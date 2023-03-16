@@ -4,7 +4,7 @@ HTML is a markup language that defines the structure of your content; it consist
 
 **<ins>Watch Part 1 to 4</ins>**
 
-> ### <a href="[https://www.youtube.com/watch?v=1PnVor36_40](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq)" target="_blank">Video Tutorial</a>
+> ### <a href="https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq" target="_blank">Video Tutorial</a>
 
 #### What is an HTML element?
 

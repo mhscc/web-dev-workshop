@@ -1,6 +1,6 @@
 # 🦜 Introduction to CSS
 
-> ### [Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40)
+> ### [Video Tutorial](https://www.youtube.com/watch?v=1PnVor36_40){:target="_blank"}
 
 CSS(Cascading Style Sheets) is the code that styles the web content. It is a style-sheet language, not a programming or markup language.
 

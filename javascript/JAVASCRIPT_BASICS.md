@@ -70,7 +70,7 @@ console.log(myName);
  */
 ```
 
-<a href="(https://www.youtube.com/watch?v=RE6qf3As-XU" target="_blank">What is the difference Between const and let?</a>
+<a href="https://www.youtube.com/watch?v=RE6qf3As-XU" target="_blank">What is the difference Between const and let?</a>
 
 
 #### There are **5** commonly used data types:
@@ -79,7 +79,7 @@ console.log(myName);
 
 ### ➗ Operators
 
-> #### <a href="(https://www.youtube.com/watch?v=FZzyij43A54" target="_blank">Video Tutorial</a>
+> #### <a href="https://www.youtube.com/watch?v=FZzyij43A54" target="_blank">Video Tutorial</a>
 
 > Operators are Symbols used to perform operations on operands
 

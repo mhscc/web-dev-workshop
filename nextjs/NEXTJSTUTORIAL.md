@@ -112,9 +112,7 @@ Tailwindcss is a CSS framework that makes website design faster and easier. Over
 
 You don't have to memorize everything for styling because the documentation is always available on the official website. Go to https://tailwindcss.com/docs/ and search for the styling you want to add, then read and follow the documentation.
 
-To learn more about TailwindCSS, we suggest going over this 
-
-<a href="https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13" target="_blank">series</a>
+To learn more about TailwindCSS, we suggest going over this <a href="https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13" target="_blank">series</a>
 
 Good luck 🫡
 

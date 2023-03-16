@@ -4,7 +4,7 @@ HTML is a markup language that defines the structure of your content; it consist
 
 **<ins>Watch Part 1 to 4</ins>**
 
-> ### [Video Tutorial](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq)
+> ### [Video Tutorial](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq){:target="_blank"}
 
 #### What is an HTML element?
 
@@ -47,7 +47,7 @@ An HTML file contains a root HTML element. The head and body elements are contai
 
 ### 🤿 Diving Deeper
 
-- Watch part 1 to part 4 of the [Introduction to HTML](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq) series
+- Watch part 1 to part 4 of the [Introduction to HTML](https://www.youtube.com/playlist?list=PLZlA0Gpn_vH9xx-RRVNG187ETT2ekWFsq){:target="_blank"} series
 
 ----
 ⏪ Back: [Setting Up Workspace](../html-css/WORKSPACE_SETUP.md) • ⏭️ Next: [Introduction to CSS](/html-css/LEARN_CSS)

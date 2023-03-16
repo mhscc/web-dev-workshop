@@ -1,8 +1,10 @@
 # 🛠️ Installing Development Tools
 
-- Install [Visual Studio Code](https://code.visualstudio.com/)
-- Install [Node.js](https://nodejs.org/) (LTS version)
-- Install [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/)
+- Install <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
+- Install <a href="https://nodejs.org/" target="_blank">Node.js</a>
+
+- Install <a href="https://classic.yarnpkg.com/lang/en/docs/install/" target="_blank">Yarn</a>
+
 
 ### Install TypeScript
 

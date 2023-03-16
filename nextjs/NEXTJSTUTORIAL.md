@@ -5,7 +5,7 @@ Next.js is an open-source web development framework created by Vercel that allow
 ### Setting Up NextJS Project
 
 1. If you haven't already, install NodeJS
-2. Follow the instructions in this [video](https://www.youtube.com/watch?v=kap8xrWMNDM) to integrate TailwindCSS into your project
+2. Follow the instructions in this <a href="https://www.youtube.com/watch?v=kap8xrWMNDM" target="_blank">video</a> to integrate TailwindCSS into your project
 3. Open a new terminal in Visual Studio Code and type `yarn dev` or `npm run dev` to run the app
 
 ### JSX
@@ -48,17 +48,20 @@ Notice how in JSX, HTML can be written inside a JavaScript Function **but only i
 3. Attribute names are mostly in camelCase
    1. e.g `className` instead of `classname`
 
-Use this [converter](https://transform.tools/html-to-jsx) to help check if your JSX is correct
+Use this <a href="https://transform.tools/html-to-jsx" target="_blank">converter</a> to help check if your JSX is correct
 
 ### Pages and Routing
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2).
+> #### <a href="https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=2" target="_blank">Video Tutorial</a>
+
 
 NextJS makes routing a breeze. For example, `index.jsx` is the homepage by default. To add more pages, simply create a new file with a different name. For example, an `about` page would be `about.jsx`.
 
 ### Component
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4)
+> #### <a href="https://www.youtube.com/watch?v=MJT_WXdSPjE&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=4" target="_blank">Video Tutorial</a>
+
+
 
 A component is a piece of code that can be used almost anywhere in a project. For example, every page on a website may have a header and footer, which can be written as a component and reused throughout the project. Without components, your application will have to write the same code for each page of your website's header and footer. Components, in essence, make code less redundant.
 
@@ -98,17 +101,20 @@ function Home() {
 export default Home;
 ```
 
-These are the very basics of NextJS, if yould like to learn more watch the whole [series](https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3)
+These are the very basics of NextJS, if yould like to learn more watch the whole <a href="https://www.youtube.com/watch?v=zktJ8-k0JDc&list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw&index=3" target="_blank">series</a>
 
-## [TailwindCSS](https://tailwindcss.com/)
+## <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>
 
-#### A quick overview of [TailwindCSS](https://www.youtube.com/watch?v=mr15Xzb1Ook&t=26s)
+
+#### A quick overview of <a href="https://www.youtube.com/watch?v=mr15Xzb1Ook&t=26s" target="_blank">TailwindCSS</a> 
 
 Tailwindcss is a CSS framework that makes website design faster and easier. Overall, there isn't much of a difference between CSS and TailwindCSS. It's also not too difficult to learn because Visual Studio Code provides hints.
 
 You don't have to memorize everything for styling because the documentation is always available on the official website. Go to https://tailwindcss.com/docs/ and search for the styling you want to add, then read and follow the documentation.
 
-To learn more about TailwindCSS, we suggest going over this [series](https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13).
+To learn more about TailwindCSS, we suggest going over this 
+
+<a href="https://www.youtube.com/watch?v=kMiMlB5PZRM&list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&index=13" target="_blank">series</a>
 
 Good luck 🫡
 

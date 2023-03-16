@@ -42,7 +42,9 @@ JavaScript is the most widely used programming language for web development.
 
 ### 🧺 Variables and Data Types
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=edlFjlzxkSI)
+> #### <a href="https://www.youtube.com/watch?v=edlFjlzxkSI" target="_blank">Video Tutorial</a>
+
+
 
 Think of variables as containers that stores values. To declare a variable use `var`, `let` or `const` followed by variable name, equal sign then the value.
 To print out the statement to the console/terminal use `console.log()`
@@ -68,7 +70,8 @@ console.log(myName);
  */
 ```
 
-[What is the difference Between const and let?](https://www.youtube.com/watch?v=RE6qf3As-XU)
+<a href="(https://www.youtube.com/watch?v=RE6qf3As-XU" target="_blank">What is the difference Between const and let?</a>
+
 
 #### There are **5** commonly used data types:
 
@@ -76,8 +79,8 @@ console.log(myName);
 
 ### ➗ Operators
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=FZzyij43A54)
->
+> #### <a href="(https://www.youtube.com/watch?v=FZzyij43A54" target="_blank">Video Tutorial</a>
+
 > Operators are Symbols used to perform operations on operands
 
 Generally, all operators require you to have the same data type. Integers and Strings can't be added together, but integer and integer, so can is Strings to Strings.
@@ -112,7 +115,9 @@ You do not have to learn Bitwise Operator at the moment because there is little 
 
 ### 💥 Conditionals
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=IsG4Xd6LlsM&t=135s)
+> #### <a href="https://www.youtube.com/watch?v=IsG4Xd6LlsM&t=135s" target="_blank">Video Tutorial</a>
+
+
 >
 > Conditionals are used when you want your program to perform different actions based on different conditions. In short, if we want to have logic in our program we use conditionals
 
@@ -143,7 +148,8 @@ if (myAge > 10) {
 
 ### 🔶 Functions
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=N8ap4k_1QEQ&t=4s)
+> #### <a href="https://www.youtube.com/watch?v=N8ap4k_1QEQ&t=4s" target="_blank">Video Tutorial</a>
+
 
 Function is a block of code that performs certain task
 
@@ -201,8 +207,9 @@ console.log(car);
 
 ### ♻️ What if I want to execute my code multiple times?
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=Kn06785pkJg&t=297s)
->
+> #### <a href="https://www.youtube.com/watch?v=Kn06785pkJg&t=297s" target="_blank">Video Tutorial</a>
+
+
 > Use loops, loops can execute a block of code a number of times
 
 There are **5 types of loops**: `while` loop, `for` loop, `for/in` loop, `for/of` loop and `do/while` loop
@@ -320,7 +327,8 @@ The code will execute once and then check the condition therefore `5` was printe
 
 ### 🧊 To dive deeper into JavaScript
 
-Take some time and watch this [video](https://www.youtube.com/watch?v=PkZNo7MFNFg&t=4595s) or go through this [Modern JavaScript Tutorial](https://javascript.info/)
+Take some time and watch this <a href="https://www.youtube.com/watch?v=PkZNo7MFNFg&t=4595s" target="_blank">Video</a> or go through this <a href="https://javascript.info/" target="_blank">Modern JavaScript Tutorial</a>
+
 
 Good luck 🙋‍♂️
 

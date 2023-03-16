@@ -12,7 +12,8 @@ DOM basically represents the HTML page and its CSS; using DOM, we can change the
 
 ### DOM Manipulations
 
-> #### [Video Tutorial](https://www.youtube.com/watch?v=jmPgo2lyoLY)
+> #### <a href="https://www.youtube.com/watch?v=jmPgo2lyoLY" target="_blank">Video Tutorial</a>
+
 
 The overall DOM manipulation procedure is to locate an HTML element and then use JavaScript to implement logic.
 
@@ -79,7 +80,7 @@ The `clear` button is initially set to hidden however when it is clicked, using 
 
 ## 🤿 Dig Deeper
 
-Watch [JavaScript DOM Manipulation - Full Course for beginners](https://www.youtube.com/watch?v=5fb2aPlgoys) if you would like to learn more about DOM.
+Watch <a href="https://www.youtube.com/watch?v=5fb2aPlgoys" target="_blank">JavaScript DOM Manipulation - Full Course for beginners</a> if you would like to learn more about DOM.
 
 However, it is not necessary because as you move forward web frameworks are a better option. 🫡
 

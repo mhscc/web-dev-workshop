@@ -1,6 +1,6 @@
 # 🛠️ Setting Up Workspace
 
-> ### [Video Demonstration](https://code.visualstudio.com/)
+> ### <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>
 
 - Create a folder on your computer
 - Install the `Live Server` Extension in Visual Studio Code

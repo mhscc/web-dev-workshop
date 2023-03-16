@@ -1,10 +1,10 @@
 # 💪 Familiarize with TypeScript Quickly
 
-> ### [Short Video Tutorial](https://www.youtube.com/watch?v=JUORwadOU7s)
+> ### [Short Video Tutorial](https://www.youtube.com/watch?v=JUORwadOU7s){:target="_blank"}
 
-> ### [Long Video Tutorial](https://www.youtube.com/watch?v=d56mG7DezGs)
+> ### [Long Video Tutorial](https://www.youtube.com/watch?v=d56mG7DezGs){:target="_blank"}
 
-TypeScript offers all of JavaScript features but in addition to that it is [strongly typed](https://en.wikipedia.org/wiki/Strong_and_weak_typing)
+TypeScript offers all of JavaScript features but in addition to that it is [strongly typed](https://en.wikipedia.org/wiki/Strong_and_weak_typing){:target="_blank"}
 
 ## Getting started
 
